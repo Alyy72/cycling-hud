@@ -1,0 +1,8 @@
+{
+  "active": false,
+  "threatLevel": "CRITICAL",
+  "distanceMeters": 12.4,
+  "speedDeltaKmh": 28.5,
+  "direction": "REAR_LEFT",
+  "timestamp": 0
+}
